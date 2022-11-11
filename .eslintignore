@@ -1,2 +1,3 @@
 node_modules
-
+node_modukes/**/*.js
+node_modules/ipaddr.js
